@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Ssupp ma boyyy 👋! </h2>
 
 ###
 
@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/anntaglh">
+  <a href="https://open.spotify.com/user/31ij62qgljrtovrsojojfqjhxb2u?si=69abc0eabae5402b">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=anntaglh&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
