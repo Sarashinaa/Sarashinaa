@@ -48,12 +48,12 @@
 
 ###
 
-<p align="left">Shrek 2 Full Movie👇</p>
+<p align="left">Reaksi ketika melihat isi Repo di akun ini👇</p>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/uOcHK8MeoucAAAAC/shrek-shrek2.gif"  />
+  <img height="430" src="https://media1.tenor.com/m/RYd2FchrwPMAAAAC/funny-happy.gif"  />
 </div>
 
 ###
