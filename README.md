@@ -48,12 +48,20 @@
 
 ###
 
-<p align="left">Reaksi ketika melihat isi Repo di akun ini👇</p>
+<p align="left">penyemangat ngoding👇</p>
 
 ###
 
 <div align="center">
-  <img height="430" src="https://media1.tenor.com/m/RYd2FchrwPMAAAAC/funny-happy.gif"  />
+  <img height="430" src="https://media1.tenor.com/m/UhoiqjKB-SIAAAAC/ruka-ruka-sarashina.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ij62qgljrtovrsojojfqjhxb2u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ij62qgljrtovrsojojfqjhxb2u&count=10" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
