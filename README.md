@@ -41,27 +41,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarashinaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Sarashinaa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarashinaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<p align="left">penyemangat ngoding👇</p>
-
-###
-
-<div align="center">
-  <img height="430" src="https://media1.tenor.com/m/UhoiqjKB-SIAAAAC/ruka-ruka-sarashina.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/31ij62qgljrtovrsojojfqjhxb2u">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ij62qgljrtovrsojojfqjhxb2u&count=10&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarashinaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sarashinaa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarashinaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
