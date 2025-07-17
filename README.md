@@ -1,4 +1,4 @@
-<h1 align="left">Profile</h1>
+<h1 align="left">Selamat Welcome di My Profile Saya</h1>
 
 ###
 
@@ -10,11 +10,17 @@
   <a href="https://www.youtube.com/@anntglh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@anntglh&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@anantamahardika30&logo=gmail&label=&color=ab1e1b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
   <a href="https://www.instagram.com/dizu.natsu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@dizu.natsu&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/696378144566804580" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31ij62qgljrtovrsojojfqjhxb2u?si=6d7b4e4f79cc4367" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@anntaglh&logo=spotify&label=&color=29903b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
 
@@ -39,11 +45,16 @@
 </div>
 
 <br>
-<br>
+
+<div font="poppins">
+  <a>
+    Hi There😄! Let me introduce myself. 私 (わたし)の名前 (なまえ)はアナンタ・ガリ・マハルディカです。GitHub のニックネームで、Sarashinaa と呼 (よ)んでください。Umur saya 19 tahun, dan saya adalah mahasiswa informatika. 
+  </a>
+</div>
 
 ##
 
-<div align="left">
+<div align="left" >
   <table align="center"  border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top">
