@@ -1,8 +1,8 @@
-<h1 align="left">Selamat Welcome di My Profile Saya</h1>
+<h1 align="left">Profile</h1>
 
 ###
 
-<img align="right" height="127" src="https://media1.tenor.com/m/hCezjPrjf-IAAAAd/newjeans-danielle.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/hCezjPrjf-IAAAAd/newjeans-danielle.gif"  />
 
 ###
 
@@ -38,20 +38,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
-###
+<br>
+<br>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ij62qgljrtovrsojojfqjhxb2u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ij62qgljrtovrsojojfqjhxb2u&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
+##
+
+<div align="left">
+  <table align="center"  border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarashinaa&locale=en&hide_title=false&layout=compact&card_width=345&langs_count=5&theme=dracula&hide_border=false&order=1" height="320" alt="languages graph"  />
+        <br/>
+        <img src="https://github-profile-trophy.vercel.app?username=Sarashinaa&theme=dracula&column=3&row=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="505" alt="trophy graph"  />
+      </td>
+      <td valign="top">
+        <a href="https://open.spotify.com/user/31ij62qgljrtovrsojojfqjhxb2u">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ij62qgljrtovrsojojfqjhxb2u&count=10&unique=true" alt="Spotify recently played" height="600"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarashinaa&radius=16&theme=react&area=true&order=5" width="790" height="300" alt="activity-graph graph"  />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarashinaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Sarashinaa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarashinaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-###
