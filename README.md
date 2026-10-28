@@ -52,27 +52,5 @@
   </a>
 </div>
 
-##
-
-<div align="left" >
-  <table align="center"  border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarashinaa&locale=en&hide_title=false&layout=compact&card_width=345&langs_count=5&theme=dracula&hide_border=false&order=1" height="320" alt="languages graph"  />
-        <br/>
-        <img src="https://github-profile-trophy.vercel.app?username=Sarashinaa&theme=dracula&column=3&row=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="505" alt="trophy graph"  />
-      </td>
-      <td valign="top">
-        <a href="https://open.spotify.com/user/31ij62qgljrtovrsojojfqjhxb2u">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ij62qgljrtovrsojojfqjhxb2u&count=10&unique=true" alt="Spotify recently played" height="600"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarashinaa&radius=16&theme=react&area=true&order=5" width="790" height="300" alt="activity-graph graph"  />
-  </div>
 
 
