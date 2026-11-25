@@ -16,7 +16,7 @@
     <td width="65%" valign="top">
       <h3>✦ About Me</h3>
       <p>
-        I'm <b>Ananta Galih Mahardika</b> (<b>@Sarashinaa</b>), an Informatics student at <b>Universitas Sultan Ageng Tirtayasa</b>. I am a multidisciplinary developer with a deep curiosity that spans across domains—refusing to be boxed into just one specialty.
+        I'm <b>Ananta Galih Mahardika</b> (<b>@Sarashinaa</b>), an Informatics student at <b>Universitas Sultan Ageng Tirtayasa</b>. I am a multidisciplinary developer with a deep curiosity that spans across domains, refusing to be boxed into just one specialty.
       </p>
       <ul>
         <li>🌐 <b>Current Focus:</b> Participating in the <b>Asah program led by Dicoding</b>, diving deep into Machine Learning, Data Science, and AWS Cloud infrastructure.</li>
